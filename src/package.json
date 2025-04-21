@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mapbox-gl": "3.11.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "0.126.0"
+  }
+}
